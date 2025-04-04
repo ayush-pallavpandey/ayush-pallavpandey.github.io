@@ -29,3 +29,11 @@ a {
     border: 3px solid #3498db;
     margin-bottom: 15px;
 }
+.contact-link {
+    color: red; /* Makes the links red */
+    font-weight: bold;
+}
+
+.contact-link:hover {
+    color: darkred; /* Changes to dark red on hover */
+}
